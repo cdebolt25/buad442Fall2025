@@ -1,0 +1,14 @@
+```{r}
+R.version.string
+```
+
+```{r}
+#| engine: R
+#| eval: false
+#| echo: true
+#| class-output: terminal
+
+# This is a new R terminal chunk
+# You can run R commands here
+print("Hello from R terminal!")
+```

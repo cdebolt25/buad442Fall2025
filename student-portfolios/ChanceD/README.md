@@ -15,7 +15,7 @@
 ## 🖼️ Portfolio Images
 
 ### My Passion: Ice Hockey
-![Game_Picture](Ice Hockey Photo.jpg)
+![Game_Picture](XO0A9083.jpg)
 
 
 ### Beach Photo
